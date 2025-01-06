@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 
 # Đường dẫn đến file hình ảnh
-image_path = "C:/Users/imleg/VuongTr/Test/NewWorld/bienso.jpg"
+image_path = "C:/Users/imleg/VuongTr2/NewWorld/bienso.jpg"
 # Đọc ảnh
 img = cv2.imread(image_path)
 # Chuyển ảnh sang grayscale
