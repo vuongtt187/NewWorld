@@ -1,5 +1,2 @@
-Python 3.10.11
-torch2.1.0 + cuda 11.8
-paddlepaddle-gpu 2.6.2
-ultralytics 8.3.150
-paddleOCR 2.6.1.3
+The application is developed in a Python 3.10.11 environment, utilizing Torch 2.1.0 with CUDA 11.8, PaddlePaddle-GPU 2.6.2, Ultralytics 8.3.150, and PaddleOCR 2.6.1.3 to support advanced image recognition and processing tasks. Run main.py to start the system, and use queryApp.py if you need to perform vehicle-related queries
+JoelTr
